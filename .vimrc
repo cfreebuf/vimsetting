@@ -5,7 +5,7 @@
 " @brief
 "
 "Set up Vundle First:
-"git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.
+"git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 set nocompatible              " be iMproved, required
 filetype on                  " required
